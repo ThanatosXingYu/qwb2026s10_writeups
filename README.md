@@ -68,3 +68,9 @@ Misc1 宇宙微波背景辐射的附件较大，原始下载地址为百度网�
 - **Web7_fault_web_and_fault_hash**：[Web7_fault_web_and_fault_hash_WriteUp.md](<Web/Web7_fault_web_and_fault_hash/Web7_fault_web_and_fault_hash_WriteUp.md>)
 - **Web8_vaultlink**：[Web8_vaultlink_WriteUp.md](<Web/Web8_vaultlink/Web8_vaultlink_WriteUp.md>)
 - **Web9_vaultlink_revenge**：[Web9_vaultlink_revenge_WriteUp.md](<Web/Web9_vaultlink_revenge/Web9_vaultlink_revenge_WriteUp.md>)
+
+# 夸克云盘链接（带misc1附件）
+- 我用夸克网盘给你分享了「2026第十届“强网杯”全国网络安全挑战赛线上初赛」，点击链接或复制整段内容，打开「夸克APP」即可获取。
+/~3c163c1H11~:/
+链接：https://pan.quark.cn/s/70a404ae2835?pwd=jrPj
+提取码：jrPj
