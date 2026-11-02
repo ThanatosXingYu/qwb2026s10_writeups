@@ -1,0 +1,6 @@
+cryptography==47.0.0
+kociemba==1.2.1
+numba==0.66.0
+numpy==2.4.4
+psutil==7.1.0
+
